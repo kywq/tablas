@@ -1,0 +1,17 @@
+table{
+    border-collapse: collapse;
+}
+body{
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 80px;
+}
+h2{
+    text-align: center;
+}
+table.centrar{
+    text-align: center;
+}
+p{
+    color: rgb(128, 123, 123);
+}
